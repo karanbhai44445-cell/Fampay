@@ -1,0 +1,5 @@
+flask
+gunicorn
+qrcode
+pillow
+imapclient
