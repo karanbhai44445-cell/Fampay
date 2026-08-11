@@ -1,0 +1,5 @@
+Flask
+qrcode
+Pillow
+IMAPClient
+gunicorn
